@@ -1,6 +1,6 @@
 # Base Frontend App
 
-## S3 deploy environment
+## Environment variables
 * YANDEX_BUCKET_ACCESS_KEY_ID
 * YANDEX_BUCKET_SECRET_ACCESS_KEY
 * YANDEX_BUCKET_NAME
